@@ -1,5 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeto4president&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Big Data & Machine Learning enthusiast from France</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Grind;Trust+The+Process" alt="Typing SVG">
+</p>
+
 
 - 🎓 I'm currently **a 3rd-year Computer Engineering student at EFREI Paris.**
 
